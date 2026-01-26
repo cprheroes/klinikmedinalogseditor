@@ -184,7 +184,7 @@ const App: React.FC = () => {
         <div className="mt-8 flex flex-wrap items-center justify-center gap-8">
           <div className="flex items-center gap-2.5">
             <div className="w-3 h-3 bg-red-500 rounded-full shadow-lg shadow-red-200"></div>
-            <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Lewat (>4m)</span>
+            <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Lewat (&gt;4m)</span>
           </div>
           <div className="flex items-center gap-2.5">
             <div className="w-3 h-3 bg-blue-100 border border-blue-200 rounded-full shadow-sm"></div>
