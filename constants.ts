@@ -11,11 +11,12 @@ export const STAFF_MAP: StaffMapping[] = [
   { row: 87, name: 'ain', dept: Department.ADMIN },
   { row: 126, name: 'rosabrina', dept: Department.ADMIN },
   { row: 132, name: 'nabila', dept: Department.ADMIN },
+  { row: 189, name: 'nazurah', dept: Department.ADMIN },
   { row: 228, name: 'arif', dept: Department.ADMIN },
   { row: 243, name: 'halvina', dept: Department.ADMIN },
-  { row: 255, name: 'nadia', dept: Department.ADMIN },
-  { row: 264, name: 'amni', dept: Department.ADMIN },
-  { row: 276, name: 'aireen', dept: Department.ADMIN },
+  { row: 264, name: 'nadia', dept: Department.ADMIN },
+  { row: 273, name: 'amni', dept: Department.ADMIN },
+  { row: 285, name: 'aireen', dept: Department.ADMIN },
   // DOKTOR
   { row: 54, name: 'farhana', dept: Department.DOKTOR },
   { row: 69, name: 'najihah', dept: Department.DOKTOR },
@@ -28,8 +29,8 @@ export const STAFF_MAP: StaffMapping[] = [
   { row: 36, name: 'farah', dept: Department.KLINIKAL },
   { row: 51, name: 'aimi', dept: Department.KLINIKAL },
   { row: 183, name: 'anis', dept: Department.KLINIKAL },
-  { row: 189, name: 'nazurah', dept: Department.KLINIKAL },
   { row: 195, name: 'faidatul', dept: Department.KLINIKAL },
+  { row: 204, name: 'hanifa', dept: Department.KLINIKAL }, // Hanifa listed in both categories by user
   { row: 213, name: 'hidayah', dept: Department.KLINIKAL },
   { row: 216, name: 'yana', dept: Department.KLINIKAL },
   { row: 222, name: 'siti', dept: Department.KLINIKAL },
@@ -38,7 +39,9 @@ export const STAFF_MAP: StaffMapping[] = [
   { row: 237, name: 'syafiqa', dept: Department.KLINIKAL },
   { row: 240, name: 'syafika', dept: Department.KLINIKAL },
   { row: 246, name: 'puteri', dept: Department.KLINIKAL },
-  { row: 282, name: 'dilla', dept: Department.KLINIKAL }
+  { row: 249, name: 'fatin', dept: Department.KLINIKAL },
+  { row: 252, name: 'mai', dept: Department.KLINIKAL },
+  { row: 291, name: 'dilla', dept: Department.KLINIKAL }
 ];
 
 export const MONTHS = [
